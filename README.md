@@ -9,10 +9,10 @@ If python isn't installed, install it.
 [Install python from this webstei](https://www.python.org/)
 
 **************************************
-**TECH STACK**
+**TECH STACK**\
 VS CODE\
 Python\
-Turtle\
+Turtle
 
 **************************************
 
