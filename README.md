@@ -10,9 +10,9 @@ If python isn't installed, install it.
 
 **************************************
 **TECH STACK**
-VS CODE
-Python
-Turtle
+VS CODE\
+Python\
+Turtle\
 
 **************************************
 
